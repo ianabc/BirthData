@@ -11,11 +11,10 @@ for Health Statistics](http://www.nber.org/data/vital-statistics-natality-data.h
 and performs a simple (and quite possibly faulty) analysis of it.
 
 
-The data consists of a CSV (fed into quilt) containing around 4M US birth records for
-the year 2016 and published through the
-[National Bureau of Economic
+The data consists of around 4M birth records for the year 2016 published
+through the [National Bureau of Economic
 Research](http://www.nber.org/data/vital-statistics-natality-data.html). The
-data source lists the following conditions:
+who list the following conditions:
 
 > By using this data you signify your agreement with NCHS' data use rules.
 > Source: National Center for Health Statistics: 2016
