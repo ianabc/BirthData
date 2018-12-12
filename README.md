@@ -18,3 +18,7 @@ who list the following conditions:
 
 > By using this data you signify your agreement with NCHS' data use rules.
 > Source: National Center for Health Statistics: 2016
+
+If you have a syzygy account, you can also [clone this
+repository](https://pims.syzygy.ca/jupyter/user-redirect/git-pull?repo=https://github.com/ianabc/BirthData&branch=master)
+working with it there.
