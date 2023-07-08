@@ -21,4 +21,4 @@ who list the following conditions:
 
 If you have a syzygy account, you can also [clone this
 repository](https://pims.syzygy.ca/jupyter/user-redirect/git-pull?repo=https://github.com/ianabc/BirthData&branch=master)
-working with it there.
+and work with it there.
